@@ -1,0 +1,44 @@
+/*  font-family: Ubuntu  */
+@font-face{
+    font-family: Ubuntu;
+    src: url('../fonts/Ubuntu/Ubuntu-Medium.ttf');
+}
+
+/*  font-family: Raleway */
+@font-face{
+    font-family: Raleway;
+    src: url('../fonts/Raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face{
+    font-family: Rale;
+    src: url('../fonts/Raleway/Raleway-Regular.ttf');
+}
+
+/*  font-family: Abel */
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/*  font-family: MuseoModerno */
+@font-face{
+    font-family: Museo;
+    src: url('../fonts/MuseoModerno/static/MuseoModerno-Regular.ttf');
+}
+
+/*  font-family: Inconsolata */
+@font-face{
+    font-family: Incons;
+    src: url('../fonts/Inconsolata/static/Inconsolata-SemiBold.ttf');
+}
+
+@font-face{
+    font-family: lora;
+    src: url('../fonts/Lora/Lora-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: candal;
+    src: url('../fonts/Candal/Candal-Regular.ttf');
+}
